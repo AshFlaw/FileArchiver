@@ -1,2 +1,2 @@
-# FileArchiver
-Archiving solution for content on file shares based on MSSQL Server Agent Jobs and PowerShell
+# File Archiver
+Solution for archiving content from file shares to Azure Blob Storage. Leveraging MSSQL Server Agent Jobs, PowerShell and AzCopy
